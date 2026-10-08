@@ -96,4 +96,3 @@ sr.sprite = frames[index];
 ### Links
 
 - YouTube: https://www.youtube.com/watch?v=3CQoHfLvPxg
-- GitHub: https://github.com/cheese91383/1151VR-HW2-414262351-DPT
