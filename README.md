@@ -1,5 +1,7 @@
 # 1151VR-HW2-414262351-DPT
 
+<img width="1725" height="970" alt="image" src="https://github.com/user-attachments/assets/4e1c725d-19b5-4c24-b143-a86fdd71cf30" />
+
 ### Controls
 
 | Key | Action |
